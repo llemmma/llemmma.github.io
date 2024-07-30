@@ -1,0 +1,42 @@
+/* style.css */
+
+/* Global Body Parameters */
+body {
+    background-color: #FFF8DC;
+    font-family: Georgia, serif;
+    max-width: 960px;        /* Most factorable number between 900-1000  */
+    width: 90%;
+    margin: 0 auto;
+}
+
+/* Global Body Parameters */
+header {
+    text-align: center;        /* Centered text */
+
+}
+
+/* Global Body Parameters */
+footer {
+    text-align: center;        /* Centered text */
+
+}
+
+/* Style for inline code elements */
+code {
+    background-color: #f5f5f5;  /* Light gray background */
+    border-radius: 3px;         /* Rounded corners */
+    padding: 0px 2px;           /* Padding around the code */
+    font-family: "Courier New", Courier, monospace;  /* Monospaced font */
+    font-size: 0.9em;          /* Slightly smaller font size */
+    color: #355E3B;             /* Distinctive color for code text */
+    font-weight: 500;           /* Slightly boldened font weight; default 400, bold 700 */
+
+}
+
+
+
+
+
+
+
+
